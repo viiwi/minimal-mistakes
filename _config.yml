@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ch"
+locale                   : "en"
 title                    : "Viiwill"
 title_separator          : "-"
 name                     : "上海纬沃网络科技有限公司"
